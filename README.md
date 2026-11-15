@@ -19,3 +19,6 @@ Python 3.10+ , standard library only (pytest for the tests). Synthetic data only
 | `docs/` | method and rules, limitations, user guide, test results, contribution record |
 
 Start with `docs/USER_GUIDE.md`.
+
+## Demo notebook
+`notebooks/privacy_toolkit_demo.ipynb` runs the full pipeline stage by stage (Google Colab or Jupyter). Every command has a comment, and every stage has a short note on why it matters, what it does and the expected result. Upload `privacy_toolkit.zip` (or clone this repo) and run the cells in order.
