@@ -1,0 +1,37 @@
+file,column,category,label,source_in_answer_sheet
+employees.csv,employee_id,identification_number,positive,Section 1/2 (PII fields & rules)
+employees.csv,first_name,name,positive,Section 1/2 (PII fields & rules)
+employees.csv,last_name,name,positive,Section 1/2 (PII fields & rules)
+employees.csv,full_name,name,positive,Section 1/2 (PII fields & rules)
+employees.csv,email,email,positive,Section 1/2 (PII fields & rules)
+employees.csv,phone,phone,positive,Section 1/2 (PII fields & rules)
+employees.csv,national_id,identification_number,positive,Section 1/2 (PII fields & rules)
+customers.csv,customer_id,identification_number,positive,Section 1/2 (PII fields & rules)
+customers.csv,first_name,name,positive,Section 1/2 (PII fields & rules)
+customers.csv,last_name,name,positive,Section 1/2 (PII fields & rules)
+customers.csv,email,email,positive,Section 1/2 (PII fields & rules)
+customers.csv,phone,phone,positive,Section 1/2 (PII fields & rules)
+customers.csv,tax_id,identification_number,positive,Section 1/2 (PII fields & rules)
+suppliers.csv,supplier_id,identification_number,positive,Section 1/2 (PII fields & rules)
+suppliers.csv,contact_first_name,name,positive,Section 1/2 (PII fields & rules)
+suppliers.csv,contact_last_name,name,positive,Section 1/2 (PII fields & rules)
+suppliers.csv,contact_email,email,positive,Section 1/2 (PII fields & rules)
+suppliers.csv,contact_phone,phone,positive,Section 1/2 (PII fields & rules)
+suppliers.csv,tax_registration,identification_number,positive,Section 1/2 (PII fields & rules)
+support_tickets.csv,customer_name,name,positive,Section 1/2 (PII fields & rules)
+support_tickets.csv,customer_email,email,positive,Section 1/2 (PII fields & rules)
+support_tickets.csv,customer_phone,phone,positive,Section 1/2 (PII fields & rules)
+marketing_contacts.csv,first_name,name,positive,Section 1/2 (PII fields & rules)
+marketing_contacts.csv,last_name,name,positive,Section 1/2 (PII fields & rules)
+marketing_contacts.csv,email,email,positive,Section 1/2 (PII fields & rules)
+marketing_contacts.csv,phone,phone,positive,Section 1/2 (PII fields & rules)
+access_logs.csv,user_id,identification_number,positive,Section 1/2 (PII fields & rules)
+access_logs.csv,ip_address,ip_address,positive,Section 1/2 (PII fields & rules)
+suppliers.csv,company_name,name,negative,"business entity, not an individual"
+access_logs.csv,log_id,identification_number,negative,operational ID
+access_logs.csv,session_id,identification_number,negative,operational ID
+support_tickets.csv,ticket_id,identification_number,negative,operational ID
+support_tickets.csv,agent_id,identification_number,negative,operational ID
+employees.csv,department,name,negative,department name
+employees.csv,job_title,name,negative,job title
+employees.csv,status,name,negative,status value

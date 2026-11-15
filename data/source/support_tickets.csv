@@ -1,0 +1,81 @@
+ticket_id,customer_name,customer_email,customer_phone,opened_date,closed_date,status,category,priority,agent_id,resolution_code,on_hold,hold_reason,channel
+TKT4000,Billy Cruz,bcruz@corp.io,+44 9035 433193,2024-07-02,2024-08-13,Closed,Technical,Critical,AGT147,Cannot Reproduce,Y,,Chat
+TKT4001,Patricia Reed,patricia57@test.org,,2023-12-08,2024-02-04,Closed,Account Access,Medium,AGT193,Cannot Reproduce,N,,Portal
+TKT4002,Emily Freeman,emily.freeman@corp.io,,2025-05-09,2025-06-05,Closed,Complaint,Critical,AGT111,Resolved,N,,Portal
+TKT4003,Sophia Cooper,sophiacooper@company.com,,2024-04-28,2024-06-27,Closed,Account Access,Critical,AGT105,Duplicate,N,,Chat
+TKT4004,Walter Woods,walter82@business.org,+1-881-394-7834,2026-02-24,2026-02-28,Closed,Account Access,Low,AGT133,Workaround,N,,Email
+TKT4005,Donna Brooks,donna47@business.org,,2024-08-02,,Open,Account Access,Low,AGT137,,N,,Chat
+TKT4006,Martha Shaw,mshaw@company.com,,2022-06-07,2022-08-27,Closed,Account Access,High,AGT187,Duplicate,N,,Email
+TKT4007,Austin Henry,ahenry@mail.net,,2023-12-22,,Open,Technical,Low,AGT127,,Y,,Phone
+TKT4008,Christian Cruz,cruz.christian@corp.io,,2026-08-31,2026-11-11,Closed,Billing,Critical,AGT158,Resolved,N,,Email
+TKT4009,Kimberly Jones,kjones@corp.io,+1-511-129-2943,2024-09-09,2024-12-07,Closed,Billing,Low,AGT199,Cannot Reproduce,N,,Portal
+TKT4010,David Gomez,david.gomez@example.com,801-304-4027,2022-08-09,2022-11-02,Closed,Complaint,High,AGT145,Workaround,N,,Phone
+TKT4011,Cheryl Kennedy,ckennedy@test.org,+44 7004 832045,2022-05-20,2022-08-03,Closed,Billing,Medium,AGT145,Cannot Reproduce,N,,Portal
+TKT4012,Jason Tran,jtran@company.com,,2023-04-12,2023-05-23,Closed,Complaint,Low,AGT110,Duplicate,N,,Portal
+TKT4013,Sandra Foster,sandra71@company.com,(687) 795-7020,2023-08-04,2023-09-13,Closed,Product Issue,Critical,AGT188,,N,,Email
+TKT4014,Charlotte Baker,charlottebaker@mail.net,,2022-05-13,2022-06-08,Closed,Product Issue,High,AGT197,,N,,Chat
+TKT4015,Kayla Snyder,ksnyder@mail.net,+1-665-210-3001,2024-03-30,2024-06-24,Closed,Product Issue,Low,AGT122,Cannot Reproduce,N,,Chat
+TKT4016,Michelle Cox,michellecox@mail.net,+44 1517 551313,2025-06-27,2025-07-07,Closed,Account Access,Critical,AGT156,Cannot Reproduce,N,,Email
+TKT4017,William Rivera,wrivera@mail.net,,2025-02-14,2025-03-25,Closed,Product Issue,Low,AGT172,Cannot Reproduce,N,,Portal
+TKT4018,Evelyn Woods,ewoods@mail.net,,2026-10-16,2026-10-24,Closed,Account Access,High,AGT107,Resolved,N,,Email
+TKT4019,Steven Sanders,steven44@test.org,453-340-6113,2023-12-16,,Open,Technical,Low,AGT168,,N,,Chat
+TKT4020,Elizabeth Alexander,elizabeth3@business.org,2458310741,2025-09-09,,Open,Account Access,High,AGT155,,N,,Phone
+TKT4021,Andrea Silva,asilva@business.org,,2026-10-02,,Open,Product Issue,Medium,AGT179,,Y,,Email
+TKT4022,Diana Henry,diana.henry@company.com,,2022-07-14,2022-08-18,Closed,Account Access,High,AGT155,,Y,,Chat
+TKT4023,Rebecca Coleman,coleman.rebecca@company.com,,2024-04-03,2024-06-08,Closed,Complaint,Critical,AGT127,Cannot Reproduce,N,,Chat
+TKT4024,Sophia Ford,sophiaford@example.com,645-520-6220,2026-07-15,2026-09-09,Closed,Technical,High,AGT187,,N,,Phone
+TKT4025,Julie Morris,morris.julie@mail.net,,2022-08-21,2022-08-25,Closed,Product Issue,Low,AGT125,Workaround,N,,Chat
+TKT4026,Paul Davis,paul6@test.org,,2023-06-14,,Open,Billing,Low,AGT140,,N,,Chat
+TKT4027,Thomas Sullivan,thomas.sullivan@company.com,457-608-2478,2024-01-15,2024-01-27,Closed,Complaint,Critical,AGT195,Workaround,N,,Portal
+TKT4028,Laura Torres,laura8@corp.io,2323586087,2022-08-07,2022-09-12,Closed,Billing,Low,AGT188,Workaround,N,,Chat
+TKT4029,Ann Foster,annfoster@example.com,,2023-09-26,2023-12-25,Closed,Product Issue,Low,AGT150,Duplicate,N,,Chat
+TKT4030,Nancy Gardner,nancy.gardner@test.org,+44 2644 964446,2023-04-28,2023-05-19,Closed,Complaint,High,AGT158,Resolved,N,,Email
+TKT4031,Gabriel Snyder,gsnyder@test.org,808-802-7722,2023-01-12,2023-04-05,Closed,Technical,High,AGT136,Workaround,N,,Email
+TKT4032,Adam Patel,adam.patel@company.com,,2023-01-08,2023-02-26,Closed,Complaint,Medium,AGT111,Cannot Reproduce,N,,Phone
+TKT4033,Anna Fox,afox@company.com,(935) 638-8129,2026-10-11,,Open,Account Access,High,AGT195,,N,,Portal
+TKT4034,Heather King,heatherking@business.org,+1-618-911-3391,2024-06-02,,Open,Billing,Critical,AGT117,,N,,Chat
+TKT4035,Beverly Jenkins,beverly.jenkins@business.org,205-359-9266,2025-11-07,2025-12-27,Closed,Technical,Low,AGT174,Workaround,N,,Chat
+TKT4036,Amanda Herrera,herrera.amanda@business.org,9275186009,2024-10-06,,Open,Account Access,Critical,AGT121,,N,,Chat
+TKT4037,Eugene Cole,eugene.cole@test.org,+1-255-335-4000,2026-04-14,,Open,Product Issue,High,AGT190,,N,,Portal
+TKT4038,Christina Hayes,chayes@example.com,(479) 676-4479,2022-08-19,,Open,Product Issue,Low,AGT142,,N,,Email
+TKT4039,Larry Robertson,larry.robertson@business.org,808-773-1095,2025-10-25,2025-12-12,Closed,Complaint,Medium,AGT127,Resolved,N,,Chat
+TKT4040,Samuel Anderson,samuel31@company.com,+1-413-266-7365,2026-03-04,2026-05-21,Closed,Account Access,Medium,AGT162,Cannot Reproduce,N,,Portal
+TKT4041,Evelyn Morgan,evelyn24@corp.io,,2025-02-27,2025-03-11,Closed,Billing,Low,AGT165,Duplicate,N,,Portal
+TKT4042,Marilyn Edwards,marilyn.edwards@test.org,+1-647-181-8825,2025-08-19,2025-09-08,Closed,Billing,Low,AGT165,Cannot Reproduce,N,,Portal
+TKT4043,Matthew Hamilton,hamilton.matthew@corp.io,6573353634,2025-09-15,,Open,Product Issue,Critical,AGT179,,N,,Chat
+TKT4044,Rachel Mitchell,rachel.mitchell@mail.net,+44 5961 748543,2023-03-09,2023-05-26,Closed,Account Access,Low,AGT116,Workaround,N,,Email
+TKT4045,Timothy Lewis,timothylewis@test.org,(395) 188-5930,2026-07-30,2026-08-24,Closed,Technical,Critical,AGT162,Cannot Reproduce,N,,Email
+TKT4046,Lauren Chen,lauren.chen@business.org,,2023-05-12,2023-07-24,Closed,Product Issue,Critical,AGT163,,N,,Chat
+TKT4047,Elizabeth West,elizabeth.west@mail.net,+44 2915 618823,2024-03-29,2024-06-13,Closed,Product Issue,Low,AGT120,Duplicate,N,,Phone
+TKT4048,Noah Ruiz,noah92@corp.io,+44 4394 396177,2024-06-16,2024-07-15,Closed,Technical,Medium,AGT125,Workaround,N,,Portal
+TKT4049,Betty Coleman,bcoleman@business.org,,2024-10-08,2024-11-04,Closed,Technical,Low,AGT108,Duplicate,N,,Portal
+TKT4050,Sandra Porter,sandra.porter@business.org,,2023-04-10,2023-05-09,Closed,Complaint,High,AGT119,,N,,Email
+TKT4051,Randy Gonzalez,gonzalez.randy@example.com,,2024-06-15,,Open,Billing,Low,AGT164,,N,,Email
+TKT4052,Kevin Mendez,kevin91@business.org,,2022-08-30,,Open,Product Issue,Low,AGT119,,N,,Chat
+TKT4053,Debra Scott,debra32@example.com,+44 3483 889794,2022-09-09,,Open,Product Issue,Critical,AGT158,,N,,Chat
+TKT4054,Linda Simmons,lsimmons@example.com,+44 1947 762288,2022-10-26,,Open,Product Issue,High,AGT192,,N,,Chat
+TKT4055,Frank Williams,frankwilliams@mail.net,,2026-08-21,2026-10-28,Closed,Complaint,Critical,AGT189,Duplicate,N,,Portal
+TKT4056,Ronald Cox,cox.ronald@company.com,+1-295-623-6115,2022-06-22,2022-08-04,Closed,Account Access,High,AGT180,,N,,Chat
+TKT4057,Ashley Gonzalez,agonzalez@example.com,,2026-03-30,2026-04-15,Closed,Complaint,Medium,AGT144,Duplicate,N,,Chat
+TKT4058,Willie Rice,rice.willie@business.org,+44 2018 545526,2025-03-19,2025-05-07,Closed,Technical,Critical,AGT109,Duplicate,N,,Portal
+TKT4059,Lawrence Woods,lawrence55@test.org,,2024-11-28,,Open,Product Issue,Critical,AGT120,,N,,Phone
+TKT4060,Cheryl Allen,cherylallen@corp.io,2243782053,2024-09-19,,Open,Technical,Low,AGT147,,N,,Chat
+TKT4061,Maria Cox,mcox@example.com,7756237356,2023-08-26,2023-09-14,Closed,Product Issue,High,AGT148,Cannot Reproduce,N,,Phone
+TKT4062,Alexis Scott,alexis.scott@test.org,,2024-10-30,2024-12-27,Closed,Complaint,Critical,AGT149,Workaround,N,,Portal
+TKT4063,Gregory Marshall,gregorymarshall@test.org,,2022-04-04,,Open,Complaint,High,AGT171,,N,,Email
+TKT4064,Gabriel Woods,gabrielwoods@corp.io,,2022-06-24,2022-09-12,Closed,Complaint,Low,AGT115,,N,,Phone
+TKT4065,Robert Peterson,robert42@corp.io,+1-703-982-1381,2026-05-31,2026-08-14,Closed,Billing,Medium,AGT136,Workaround,N,,Phone
+TKT4066,Shirley Dunn,shirley.dunn@business.org,,2022-07-03,2022-08-25,Closed,Account Access,Critical,AGT112,Duplicate,N,,Phone
+TKT4067,Olivia Chavez,olivia31@corp.io,(475) 162-6215,2023-06-13,2023-06-29,Closed,Billing,High,AGT170,,Y,Escalated to legal,Email
+TKT4068,Angela Grant,grant.angela@example.com,8785245482,2025-02-10,2025-02-27,Closed,Account Access,Medium,AGT100,Resolved,N,,Portal
+TKT4069,Brenda Guzman,guzman.brenda@test.org,,2023-05-29,,Open,Account Access,Low,AGT120,,N,,Email
+TKT4070,Scott Thompson,thompson.scott@mail.net,+1-525-798-6613,2024-03-20,2024-04-07,Closed,Technical,Low,AGT177,Cannot Reproduce,N,,Email
+TKT4071,John Wagner,john.wagner@corp.io,+44 3903 979908,2022-12-22,2023-03-22,Closed,Account Access,Medium,AGT156,Resolved,N,,Phone
+TKT4072,Russell Garcia,russellgarcia@test.org,3121762474,2026-04-03,2026-05-19,Closed,Technical,Medium,AGT108,,N,,Phone
+TKT4073,Russell Taylor,russelltaylor@test.org,,2022-09-18,2022-11-30,Closed,Billing,High,AGT187,,N,,Portal
+TKT4074,James Barnes,james.barnes@mail.net,,2025-08-05,2025-10-28,Closed,Product Issue,Critical,AGT146,,Y,Customer requested hold,Email
+TKT4075,Vincent Edwards,vedwards@mail.net,+1-785-927-1415,2022-04-07,2022-05-31,Closed,Billing,Critical,AGT155,Resolved,N,,Chat
+TKT4076,Nicholas Murphy,nicholas.murphy@corp.io,,2022-08-09,2022-09-22,Closed,Complaint,Critical,AGT197,Resolved,N,,Portal
+TKT4077,Arthur Young,arthuryoung@test.org,+44 1855 409242,2022-06-25,,Open,Billing,Critical,AGT129,,N,,Email
+TKT4078,Peter Foster,peter.foster@business.org,809-830-2106,2024-08-08,,Open,Product Issue,Critical,AGT192,,N,,Portal
+TKT4079,Deborah Morales,dmorales@corp.io,(350) 580-6057,2022-10-09,,Open,Complaint,Low,AGT154,,Y,Customer requested hold,Chat

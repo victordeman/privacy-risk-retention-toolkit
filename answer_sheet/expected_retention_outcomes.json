@@ -1,0 +1,48 @@
+{
+  "as_of_date": "2026-11-14",
+  "note": "Corrected expected outcomes. Machine-readable twin of LABELED_ANSWER_SHEET_CORRECTED.md",
+  "datasets": {
+    "employees": {
+      "ELIGIBLE_FOR_REVIEW": 2,
+      "ON_HOLD_EXPIRED": 2,
+      "INSUFFICIENT_INFO": 0,
+      "ACTIVE_NO_TRIGGER": 47,
+      "NOT_YET_DUE": 19
+    },
+    "customers": {
+      "ELIGIBLE_FOR_REVIEW": 5,
+      "ON_HOLD_EXPIRED": 1,
+      "INSUFFICIENT_INFO": 0,
+      "ACTIVE_NO_TRIGGER": 70,
+      "NOT_YET_DUE": 14
+    },
+    "suppliers": {
+      "ELIGIBLE_FOR_REVIEW": 1,
+      "ON_HOLD_EXPIRED": 0,
+      "INSUFFICIENT_INFO": 0,
+      "ACTIVE_NO_TRIGGER": 3,
+      "NOT_YET_DUE": 36
+    },
+    "support_tickets": {
+      "ELIGIBLE_FOR_REVIEW": 22,
+      "ON_HOLD_EXPIRED": 2,
+      "INSUFFICIENT_INFO": 0,
+      "ACTIVE_NO_TRIGGER": 23,
+      "NOT_YET_DUE": 33
+    },
+    "marketing_contacts": {
+      "ELIGIBLE_FOR_REVIEW": 29,
+      "ON_HOLD_EXPIRED": 4,
+      "INSUFFICIENT_INFO": 9,
+      "ACTIVE_NO_TRIGGER": 0,
+      "NOT_YET_DUE": 18
+    },
+    "access_logs": {
+      "ELIGIBLE_FOR_REVIEW": 45,
+      "ON_HOLD_EXPIRED": 3,
+      "INSUFFICIENT_INFO": 1,
+      "ACTIVE_NO_TRIGGER": 0,
+      "NOT_YET_DUE": 21
+    }
+  }
+}

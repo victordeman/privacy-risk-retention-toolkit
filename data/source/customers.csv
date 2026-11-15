@@ -1,0 +1,91 @@
+customer_id,first_name,last_name,email,phone,account_created,account_closed_date,status,country,loyalty_tier,last_purchase_date,customer_segment,tax_id,on_hold,hold_reason,preferred_contact
+CUST2000,Jordan,Guzman,guzman.jordan@example.com,+1-448-685-9537,2021-08-21,,Active,UK,Platinum,2024-07-19,SMB,TXSDXPHMG4,Y,,email
+CUST2001,Ruth,Bennett,ruthbennett@test.org,607-426-5775,2024-12-15,,Active,SG,Gold,2025-03-15,SMB,TXKLJOJYGP,N,,phone
+CUST2002,Justin,Stone,jstone@mail.net,8265834251,2018-10-11,,Active,US,Gold,2026-01-04,Enterprise,,N,,email
+CUST2003,Margaret,Dunn,margaret73@example.com,+44 9499 685098,2020-10-13,,Active,DE,Platinum,2025-08-06,Enterprise,,N,,mail
+CUST2004,Joshua,Ruiz,joshuaruiz@example.com,733-594-6706,2018-04-11,2020-03-06,Closed,US,Gold,2023-04-02,Enterprise,TXUNO5Z865,N,,mail
+CUST2005,Virginia,Hamilton,virginia56@test.org,+1-229-855-4232,2020-08-07,,Active,FR,Silver,2025-01-19,SMB,TX4OHYBDE4,N,,phone
+CUST2006,Christina,Porter,christina.porter@corp.io,6963404324,2019-12-08,,Active,UK,Platinum,2025-05-16,Retail,,N,,mail
+CUST2007,Beverly,Mason,mason.beverly@business.org,+44 9281 784793,2019-12-11,,Active,SG,Platinum,2025-09-27,Retail,TX1RA9J6GQ,N,,phone
+CUST2008,Gerald,Ellis,gerald.ellis@business.org,304-853-5055,2019-04-09,,Active,FR,Bronze,2025-06-18,Retail,,N,,email
+CUST2009,Sharon,Nichols,nichols.sharon@mail.net,783-459-9720,2024-08-05,,Active,CA,Gold,2024-08-15,Enterprise,TXUZO3YSXZ,N,,mail
+CUST2010,Steven,Fox,steven51@test.org,662-177-2525,2019-06-28,2023-09-21,Closed,SG,Platinum,2024-11-01,Enterprise,TXRQQGNC2J,N,,email
+CUST2011,Virginia,Diaz,virginia73@company.com,(247) 201-8529,2023-07-20,,Active,CA,Silver,2026-08-24,SMB,TXX9N9DW5E,N,,phone
+CUST2012,Natalie,Fox,fox.natalie@example.com,+44 3165 600905,2020-08-17,unknown,Active,US,Bronze,2023-07-31,SMB,TXADTVNO2K,N,,mail
+CUST2013,Logan,Nelson,logan79@mail.net,803-847-7291,2022-12-08,2024-05-17,Closed,CA,Bronze,2024-05-23,Enterprise,,N,,mail
+CUST2014,Abigail,Reed,reed.abigail@corp.io,3550908958,2025-09-29,,Active,US,Gold,2024-10-10,Retail,TXUFJ6GZ2L,N,,email
+CUST2015,Anna,Parker,parker.anna@business.org,+1-985-525-7939,2018-06-13,,Active,AU,Silver,2023-11-15,Enterprise,TXLRNNBFY8,N,,email
+CUST2016,Daniel,Fisher,daniel.fisher@test.org,+1-367-608-6680,2019-04-21,2022-12-17,Closed,DE,Platinum,2024-07-11,Enterprise,TXPK2GCHKD,Y,Chargeback investigation,phone
+CUST2017,Lori,Clark,lori.clark@example.com,+44 7870 335421,2024-06-08,,Active,CA,Gold,2024-07-09,Retail,,N,,email
+CUST2018,Christian,Wagner,cwagner@example.com,8664400151,2018-08-04,unknown,Active,UK,Platinum,2025-01-24,Enterprise,,N,,email
+CUST2019,Brittany,Owens,brittany.owens@business.org,306-310-9680,2020-10-01,2026-03-23,Closed,US,Bronze,2024-04-19,Enterprise,,N,,phone
+CUST2020,Christina,Weaver,weaver.christina@mail.net,+44 7438 834764,2018-12-14,,Active,DE,Silver,2023-06-02,Retail,TXR33GB4CR,N,,phone
+CUST2021,Brandon,Hamilton,brandon.hamilton@test.org,(351) 193-5066,2020-12-21,,Active,US,Platinum,2025-07-15,Enterprise,,Y,Legal hold,email
+CUST2022,Matthew,Hamilton,matthew26@company.com,276-122-2056,2019-02-22,pending,Active,US,Bronze,2025-08-02,Retail,TXKTE1O676,N,,phone
+CUST2023,Zachary,Hill,hill.zachary@mail.net,+44 5082 761393,2018-05-22,,Active,AU,Platinum,2024-12-05,Enterprise,,N,,phone
+CUST2024,Brenda,Campbell,campbell.brenda@corp.io,472-646-1916,2018-04-17,unknown,Active,FR,Silver,2023-12-27,Retail,,Y,Legal hold,mail
+CUST2025,Elijah,Alvarez,elijahalvarez@company.com,+1-704-655-6063,2024-08-20,,Active,DE,Silver,2023-09-25,SMB,,N,,phone
+CUST2026,Jessica,Garcia,jessica.garcia@corp.io,+44 3580 867926,2019-08-29,,Active,CA,Gold,2023-12-23,Enterprise,,N,,mail
+CUST2027,Alice,Alvarez,aalvarez@test.org,3625862062,2020-07-03,,Active,US,Platinum,2023-10-16,SMB,,N,,email
+CUST2028,Frank,Brooks,fbrooks@test.org,+44 1020 150486,2019-11-19,,Active,UK,Platinum,2025-10-06,SMB,TXDTSKR8GS,N,,email
+CUST2029,Nicole,Garcia,nicole.garcia@company.com,(808) 728-8909,2021-07-29,2022-05-29,Closed,US,Bronze,2024-11-09,Retail,,Y,Chargeback investigation,phone
+CUST2030,Elijah,Fernandez,fernandez.elijah@mail.net,(569) 103-8005,2024-01-22,2025-11-18,Closed,CA,Gold,2023-06-17,SMB,,N,,phone
+CUST2031,Ruth,Reynolds,rreynolds@mail.net,+1-590-478-4056,2023-06-27,,Active,US,Gold,2026-01-13,SMB,,N,,mail
+CUST2032,Ryan,Fernandez,ryan88@corp.io,+44 9467 939333,2018-09-07,,Active,UK,Silver,2024-03-09,Retail,TXFZFZMU9W,N,,email
+CUST2033,Daniel,Jimenez,jimenez.daniel@example.com,351-680-2641,2024-03-28,2026-04-24,Closed,FR,Gold,2025-04-21,SMB,TXHL195LO1,N,,phone
+CUST2034,Wayne,Stewart,wstewart@example.com,433-237-5923,2018-07-21,,Active,CA,Platinum,2026-05-23,Enterprise,TXFWEHID2S,N,,email
+CUST2035,Samantha,Mills,samanthamills@example.com,8831899893,2023-09-07,,Active,SG,Bronze,2026-10-27,Retail,TXHGYHJCU9,N,,mail
+CUST2036,Nancy,Reed,nancyreed@company.com,3780439666,2018-04-23,2019-06-20,Closed,FR,Bronze,2024-04-03,SMB,,N,,phone
+CUST2037,Roy,Mills,roy28@business.org,+44 5631 412974,2025-03-17,,Active,US,Gold,2024-07-20,Enterprise,TX9NYN6I82,N,,mail
+CUST2038,Julie,Hicks,julie34@business.org,551-843-4643,2021-08-02,,Active,AU,Gold,2023-12-15,Enterprise,,N,,email
+CUST2039,Nicole,Harris,nharris@company.com,+44 7089 373216,2023-04-13,2024-12-22,Closed,FR,Bronze,2025-08-21,Retail,,N,,mail
+CUST2040,Arthur,Porter,aporter@mail.net,619-683-8496,2018-10-19,2020-02-19,Closed,CA,Silver,2024-10-03,Enterprise,TXG7RK5SS4,N,,phone
+CUST2041,Bruce,Barnes,bruce.barnes@test.org,841-851-5076,2022-07-11,pending,Active,UK,Bronze,2025-02-24,Enterprise,,N,,email
+CUST2042,Thomas,Lopez,thomas44@corp.io,(701) 467-4087,2021-05-06,,Active,CA,Bronze,2026-04-22,Enterprise,TXDN1V9J1Z,N,,mail
+CUST2043,Margaret,Munoz,margaret33@corp.io,+44 9524 383091,2018-03-22,2019-02-12,Closed,FR,Bronze,2025-11-13,Enterprise,,N,,phone
+CUST2044,Sandra,Ramirez,sandra46@company.com,+1-502-264-1645,2023-08-01,2024-12-12,Closed,US,Platinum,2023-11-02,Retail,,N,,email
+CUST2045,Natalie,Garza,natalie34@business.org,+1-251-202-3862,2019-02-19,,Active,US,Silver,2026-09-20,Enterprise,TXCFMV3T6E,N,,phone
+CUST2046,Brenda,Foster,brendafoster@company.com,+44 3969 741018,2025-09-26,,Active,US,Platinum,2025-06-21,Retail,TXN0VIQQ8Y,N,,phone
+CUST2047,Roger,Aguilar,roger87@test.org,(211) 758-3571,2025-09-20,,Active,DE,Gold,2023-04-14,Enterprise,TXNE8GSGUG,Y,Chargeback investigation,email
+CUST2048,Andrea,Soto,soto.andrea@example.com,(720) 675-4389,2025-04-30,,Active,FR,Platinum,2024-11-10,Enterprise,,N,,mail
+CUST2049,Evelyn,Rice,erice@company.com,+1-563-949-5783,2025-05-15,,Active,DE,Silver,2024-01-20,Retail,,N,,phone
+CUST2050,Laura,Alexander,alexander.laura@test.org,+44 9689 871976,2020-02-20,,Active,FR,Platinum,2025-11-07,Retail,,N,,email
+CUST2051,Brittany,Allen,allen.brittany@mail.net,7495255966,2019-03-01,2022-10-10,Closed,FR,Gold,2026-02-07,Enterprise,TX7POX4PZ6,N,,mail
+CUST2052,Beverly,Shaw,beverly74@corp.io,+1-890-865-9747,2021-08-13,,Active,UK,Gold,2023-11-26,SMB,,N,,email
+CUST2053,Jessica,Rose,rose.jessica@test.org,8237658828,2021-04-23,2024-08-03,Closed,US,Bronze,2024-05-29,Retail,,Y,,phone
+CUST2054,Cynthia,Silva,csilva@test.org,(391) 277-9418,2025-04-06,,Active,UK,Gold,2023-01-12,SMB,,N,,email
+CUST2055,David,Flores,david39@test.org,5979458346,2021-08-14,,Active,AU,Platinum,2023-07-08,SMB,TX7BC7RJZT,N,,mail
+CUST2056,John,Robinson,john.robinson@corp.io,+1-898-428-7248,2025-07-02,,Active,DE,Silver,2024-10-18,Enterprise,TX3YRJM7M7,N,,mail
+CUST2057,Nathan,Clark,nathan.clark@mail.net,8706093841,2020-04-22,,Active,US,Silver,2024-06-13,SMB,TXMF0OJNMR,N,,mail
+CUST2058,Barbara,Fox,barbara.fox@business.org,8502250932,2018-10-25,2021-11-17,Closed,DE,Silver,2024-09-02,Enterprise,,N,,mail
+CUST2059,Grace,Myers,myers.grace@example.com,(287) 412-4441,2018-02-15,,Active,UK,Gold,2024-02-02,Retail,TXSUUXZGJA,N,,email
+CUST2060,Nicholas,Sanchez,nicholassanchez@company.com,661-436-6008,2020-03-19,,Active,SG,Silver,2023-01-10,SMB,TX7QFU4QVG,N,,phone
+CUST2061,Brandon,West,brandonwest@company.com,+1-469-851-2252,2024-03-09,,Active,AU,Gold,2026-01-18,Enterprise,,N,,email
+CUST2062,Catherine,Powell,powell.catherine@company.com,(572) 614-1173,2020-07-03,,Active,AU,Silver,2025-09-17,SMB,TXR898OISD,N,,phone
+CUST2063,Barbara,Hernandez,bhernandez@business.org,4896576569,2025-04-10,,Active,SG,Gold,2024-12-07,SMB,,N,,mail
+CUST2064,Mary,Herrera,mherrera@company.com,(876) 335-7793,2019-07-24,2021-02-04,Closed,AU,Silver,2026-08-18,SMB,TX1K5M1K29,Y,Legal hold,email
+CUST2065,Roger,Russell,rrussell@test.org,4296344958,2024-09-20,,Active,CA,Gold,2023-12-10,Enterprise,,N,,phone
+CUST2066,Jordan,Webb,jordan.webb@company.com,+1-381-587-1639,2018-10-09,unknown,Active,CA,Platinum,2024-04-14,SMB,,N,,phone
+CUST2067,Carolyn,Freeman,cfreeman@company.com,+44 9561 223552,2025-10-24,,Active,CA,Silver,2026-11-09,SMB,,N,,email
+CUST2068,Michelle,Barnes,barnes.michelle@corp.io,765-902-8904,2025-04-22,,Active,AU,Gold,2025-03-26,Enterprise,TXV48SY3IS,N,,mail
+CUST2069,Alice,Salazar,alicesalazar@example.com,9523139706,2025-09-04,,Active,CA,Gold,2026-05-08,Retail,,N,,email
+CUST2070,Sophia,Hayes,sophia.hayes@business.org,890-136-6893,2022-12-04,,Active,FR,Platinum,2024-12-24,Enterprise,TXLIQ23ATW,N,,phone
+CUST2071,Frank,Peterson,fpeterson@corp.io,+44 2917 941945,2020-07-15,,Active,AU,Bronze,2025-09-14,Retail,TXDS7PSECJ,N,,mail
+CUST2072,Anna,Murphy,anna23@corp.io,(787) 375-3994,2021-03-22,2025-03-30,Closed,FR,Gold,2024-02-28,Retail,TX8M53XONM,N,,mail
+CUST2073,David,Moreno,david36@corp.io,+44 1887 651273,2022-03-01,,Active,AU,Bronze,2025-10-26,SMB,TXO6ZPGO07,N,,mail
+CUST2074,Betty,Wood,betty35@company.com,+44 6981 995825,2022-01-21,,Active,UK,Silver,2026-03-25,Enterprise,TX398FD5Y5,N,,email
+CUST2075,Melissa,Butler,melissa41@test.org,+44 8807 979725,2023-08-09,,Active,CA,Gold,2024-06-16,SMB,TXKTCECOLK,N,,mail
+CUST2076,Logan,Castro,logan63@corp.io,+1-280-490-5694,2019-12-16,,Active,UK,Gold,2024-04-12,SMB,TXA9N9GVDL,N,,phone
+CUST2077,Olivia,Nelson,olivia.nelson@business.org,684-661-1881,2020-01-24,,Active,AU,Silver,2023-06-22,Enterprise,,N,,phone
+CUST2078,Samantha,Collins,samantha.collins@corp.io,2910594463,2020-10-10,,Active,UK,Platinum,2026-07-16,Enterprise,,N,,mail
+CUST2079,Victoria,Stevens,victoria.stevens@corp.io,510-110-1001,2025-03-05,,Active,SG,Bronze,2026-11-09,SMB,,N,,phone
+CUST2080,Scott,Williams,scottwilliams@corp.io,+44 7199 331307,2022-10-30,,Active,CA,Silver,2025-11-24,Enterprise,,N,,mail
+CUST2081,Brenda,Reed,brendareed@example.com,+1-496-213-8460,2025-04-10,,Active,AU,Bronze,2024-01-16,Retail,TX4F0307FS,N,,phone
+CUST2082,Maria,Hamilton,mhamilton@company.com,(756) 581-3975,2025-10-25,,Active,SG,Platinum,2024-05-21,Enterprise,,N,,email
+CUST2083,Christina,Nichols,cnichols@test.org,+1-362-744-1691,2019-01-20,,Active,UK,Platinum,2024-10-26,Retail,TX94S01SHL,N,,phone
+CUST2084,Lori,Thompson,lori.thompson@test.org,+44 6189 685472,2020-10-15,2021-07-19,Closed,CA,Silver,2023-02-13,Enterprise,TXQ91PKJHK,N,,mail
+CUST2085,Carolyn,Chavez,chavez.carolyn@company.com,664-100-9289,2023-04-03,,Active,FR,Silver,2024-10-18,Enterprise,TXYT6OR5AE,N,,phone
+CUST2086,Mark,Harris,mark.harris@example.com,2573478551,2023-11-14,,Active,CA,Bronze,2023-01-27,Retail,,Y,Chargeback investigation,email
+CUST2087,Joan,Shaw,joan.shaw@business.org,(241) 851-2153,2018-09-06,2023-02-04,Closed,AU,Silver,2026-03-13,Enterprise,,N,,mail
+CUST2088,Marie,Mcdonald,marie59@test.org,+44 9747 729057,2022-08-28,,Active,FR,Gold,2026-05-31,Retail,,N,,email
+CUST2089,Dennis,Dunn,dennis.dunn@mail.net,338-409-1107,2024-03-03,,Active,AU,Silver,2023-07-13,Retail,,N,,email

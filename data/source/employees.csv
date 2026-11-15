@@ -1,0 +1,71 @@
+employee_id,first_name,last_name,full_name,email,phone,department,job_title,hire_date,termination_date,status,salary_band,office_location,national_id,on_hold,hold_reason,notes
+EMP1000,Sophia,Lewis,Sophia Lewis,lewis.sophia@company.com,(232) 130-2535,Legal,Coordinator,2016-04-12,,Active,L1,London,NIDPC5YC33UL,N,,
+EMP1001,Ralph,Alexander,Ralph Alexander,ralexander@company.com,+44 4814 205907,Marketing,Specialist,2022-01-05,2026-10-01,Terminated,L3,Singapore,NID79XNL6Q5D,Y,Internal investigation,Performance review complete
+EMP1002,Danielle,Wood,Danielle Wood,dwood@company.com,1599707677,Operations,Associate,2024-08-13,N/A,Active,L5,Austin,NIDDZ4HRU55O,N,,
+EMP1003,Jerry,Ross,Jerry Ross,jerry.ross@company.com,8385972235,HR,Manager,2022-09-06,,Active,L3,Berlin,NIDL5RJSJ0B0,N,,Visa sponsorship
+EMP1004,Brandon,Morris,Brandon Morris,morris.brandon@company.com,471-640-7932,Support,Engineer,2016-08-25,2018-01-09,Terminated,L4,Berlin,NIDG820JL0P2,Y,,
+EMP1005,William,James,William James,williamjames@company.com,+44 2588 790993,Support,Lead,2016-10-17,,Active,L1,New York,NID2QS36J56G,N,,
+EMP1006,Kelly,Harrison,Kelly Harrison,kellyharrison@company.com,+44 1035 509386,Legal,Specialist,2017-02-05,2023-08-27,Terminated,L2,Singapore,NID72Q2B1HXJ,N,,
+EMP1007,Keith,Lee,Keith Lee,lee.keith@company.com,(834) 183-7868,Operations,Associate,2018-01-31,2019-05-04,Terminated,L2,Singapore,NIDGXX0MK3JI,N,,Performance review complete
+EMP1008,Carolyn,Moore,Carolyn Moore,moore.carolyn@company.com,4821286999,HR,Coordinator,2018-09-27,2020-12-31,Terminated,L3,Berlin,NID7COUI9W1M,N,,Visa sponsorship
+EMP1009,Barbara,Smith,Barbara Smith,barbara95@company.com,8879525611,HR,Associate,2019-09-28,,Active,L2,New York,NIDBWSUW783S,N,,
+EMP1010,Billy,Weaver,Billy Weaver,billy23@company.com,(621) 921-5065,Finance,Lead,2017-09-25,,Active,L3,Singapore,NIDTV8NEA2RC,N,,
+EMP1011,Marilyn,Castro,Marilyn Castro,marilyn.castro@company.com,+1-311-710-8119,Support,Analyst,2019-09-18,,Active,L5,Berlin,NIDOXQ7FYXMN,Y,Internal investigation,
+EMP1012,Vincent,Kim,Vincent Kim,vincentkim@company.com,830-682-5930,Operations,Director,2021-09-08,2026-10-04,Terminated,L4,Berlin,NIDLBFOISYQN,N,,Visa sponsorship
+EMP1013,Hannah,Hicks,Hannah Hicks,hannahhicks@company.com,(450) 586-2193,Engineering,Manager,2023-02-05,,Active,L4,London,NID6YI18UGSO,Y,Regulatory inquiry,Visa sponsorship
+EMP1014,Kayla,Simmons,Kayla Simmons,kayla71@company.com,+44 8939 757193,Sales,Coordinator,2022-11-14,,Active,L2,Singapore,NIDCW25D57EB,N,,
+EMP1015,Adam,Thomas,Adam Thomas,adam.thomas@company.com,(688) 106-6763,Operations,Associate,2018-04-27,,Active,L4,New York,NIDDOSQUXZJW,N,,
+EMP1016,Lisa,Snyder,Lisa Snyder,lisasnyder@company.com,+1-665-434-6529,Engineering,Engineer,2020-10-21,2026-06-23,Terminated,L2,New York,NIDSNRY7054O,N,,Performance review complete
+EMP1017,Joan,Fox,Joan Fox,joan.fox@company.com,1851819913,Finance,Manager,2018-11-15,,Active,L3,Berlin,NIDSSK1JN2N0,N,,
+EMP1018,Megan,Ramirez,Megan Ramirez,meganramirez@company.com,(866) 376-9817,Sales,Coordinator,2020-11-10,,Active,L4,London,NIDRKOCHBHC9,N,,Visa sponsorship
+EMP1019,Jordan,Fox,Jordan Fox,jordan31@company.com,(907) 587-9041,Operations,Engineer,2019-02-05,,Active,L4,Berlin,NIDJFQBP9946,N,,
+EMP1020,Russell,Castro,Russell Castro,castro.russell@company.com,9650701349,HR,Coordinator,2024-07-18,,Active,L1,New York,NIDJP4VHVKGF,N,,Performance review complete
+EMP1021,Susan,Cook,Susan Cook,susancook@company.com,7196439534,Support,Coordinator,2021-05-10,,Active,L5,Berlin,NID2Y3RM928J,N,,Performance review complete
+EMP1022,James,Sullivan,James Sullivan,jsullivan@company.com,(272) 803-4824,Operations,Specialist,2021-01-19,N/A,Active,L1,New York,NID5BQKA4OPX,N,,
+EMP1023,Douglas,Lee,Douglas Lee,douglas.lee@company.com,790-141-3870,HR,Associate,2022-09-15,,Active,L4,New York,NIDGEB35EHNE,N,,
+EMP1024,Peter,Thompson,Peter Thompson,peter.thompson@company.com,392-630-6927,HR,Coordinator,2019-07-12,2021-04-26,Terminated,L4,Austin,NID4ZL85JJ3Z,N,,
+EMP1025,Kyle,Walker,Kyle Walker,kwalker@company.com,+1-625-954-8905,Operations,Associate,2023-04-07,,Active,L3,Berlin,NID90QUKNVGH,N,,Visa sponsorship
+EMP1026,Ann,Grant,Ann Grant,grant.ann@company.com,+1-592-339-7730,HR,Engineer,2022-02-03,2026-03-12,Terminated,L1,Austin,NID3W05VY2S9,N,,
+EMP1027,Logan,Lee,Logan Lee,logan41@company.com,(440) 746-5708,Operations,Analyst,2019-09-07,,Active,L1,Singapore,NIDSAD5JKS62,N,,
+EMP1028,Billy,Robertson,Billy Robertson,brobertson@company.com,361-175-8237,Legal,Coordinator,2018-09-13,,Active,L2,Austin,NIDU3DCAP0TE,N,,
+EMP1029,Harold,Boyd,Harold Boyd,haroldboyd@company.com,835-356-3240,Legal,Analyst,2024-09-22,,Active,L5,Singapore,NIDQ3AQ64JYJ,Y,,Visa sponsorship
+EMP1030,Kevin,Rogers,Kevin Rogers,kevin15@company.com,770-474-2479,Operations,Associate,2021-05-27,,Active,L3,New York,NIDOGMXBLNMG,N,,Visa sponsorship
+EMP1031,Logan,Sullivan,Logan Sullivan,logansullivan@company.com,+1-750-238-7367,Marketing,Director,2017-04-22,2018-03-20,Terminated,L4,Austin,NIDYU3OJZCE6,N,,
+EMP1032,Peter,White,Peter White,white.peter@company.com,+1-410-170-4394,HR,Analyst,2023-06-07,2024-02-29,Terminated,L3,London,NIDL094F42GD,Y,Internal investigation,
+EMP1033,Lauren,Herrera,Lauren Herrera,lauren.herrera@company.com,(636) 802-2768,Operations,Engineer,2018-06-26,,Active,L4,Berlin,NIDJGL3PUNRP,Y,Internal investigation,Performance review complete
+EMP1034,Henry,Jordan,Henry Jordan,henry41@company.com,(583) 256-8770,Engineering,Engineer,2018-07-24,2024-02-20,Terminated,L1,Austin,NIDCNRVPYLCK,N,,Performance review complete
+EMP1035,Michelle,Hunt,Michelle Hunt,mhunt@company.com,823-773-5381,Marketing,Analyst,2021-05-29,2023-02-11,Terminated,L2,London,NIDKE5M1Q7FC,N,,Visa sponsorship
+EMP1036,Samantha,Schmidt,Samantha Schmidt,samanthaschmidt@company.com,653-777-7947,Finance,Manager,2019-08-21,,Active,L3,Austin,NID3OLIB7Z17,N,,Performance review complete
+EMP1037,Philip,Scott,Philip Scott,philipscott@company.com,273-506-1693,Sales,Associate,2024-07-27,,Active,L1,Singapore,NID6YGODF3FE,Y,,
+EMP1038,Ruth,Richardson,Ruth Richardson,richardson.ruth@company.com,+44 5193 306854,Legal,Lead,2024-05-12,,Active,L5,Berlin,NIDBYBFGMSLC,N,,
+EMP1039,Samantha,Hamilton,Samantha Hamilton,hamilton.samantha@company.com,+1-719-493-8581,Marketing,Manager,2021-01-25,,Active,L5,London,NID1PZILDXDR,N,,
+EMP1040,Judy,Mason,Judy Mason,mason.judy@company.com,5658832688,Support,Engineer,2019-10-02,2021-04-21,Terminated,L2,Berlin,NID3OI0BYCR6,N,,Performance review complete
+EMP1041,Michelle,Martin,Michelle Martin,martin.michelle@company.com,(357) 266-3962,Legal,Coordinator,2019-04-26,,Active,L4,London,NIDJBTGUDYZG,Y,Litigation hold,Visa sponsorship
+EMP1042,Heather,Herrera,Heather Herrera,hherrera@company.com,+44 3042 398910,HR,Associate,2021-11-30,2024-03-22,Terminated,L1,London,NIDTVXEEDD28,N,,Visa sponsorship
+EMP1043,Betty,Meyer,Betty Meyer,bettymeyer@company.com,281-119-5193,Finance,Coordinator,2023-04-16,2025-06-02,Terminated,L1,New York,NID8NM2UHJMK,N,,Performance review complete
+EMP1044,Justin,Barnes,Justin Barnes,justin.barnes@company.com,+44 7397 592972,Marketing,Coordinator,2016-01-07,,Active,L1,Singapore,NIDSCQMRQB1J,N,,Performance review complete
+EMP1045,Danielle,Hamilton,Danielle Hamilton,danielle92@company.com,242-423-6080,Engineering,Director,2023-10-19,,Active,L3,Singapore,NIDV1N9SFEFY,N,,Visa sponsorship
+EMP1046,Deborah,Bryant,Deborah Bryant,deborah11@company.com,(758) 400-6262,Legal,Engineer,2023-10-05,,Active,L4,New York,NIDQWMFNS2OE,N,,Performance review complete
+EMP1047,Linda,Torres,Linda Torres,ltorres@company.com,579-480-8273,Operations,Director,2022-10-24,,Active,L1,New York,NIDQHDK99GZA,N,,
+EMP1048,Rebecca,Young,Rebecca Young,rebecca.young@company.com,(883) 455-2063,HR,Director,2017-07-09,,Active,L4,New York,NIDCKGZ4V2EP,N,,
+EMP1049,Terry,Bell,Terry Bell,terry10@company.com,4570796341,HR,Coordinator,2024-08-16,2025-12-11,Terminated,L2,London,NIDBPCXWU9MJ,N,,Performance review complete
+EMP1050,Joe,Cox,Joe Cox,joecox@company.com,7752277876,Engineering,Lead,2022-11-21,,Active,L5,Singapore,NIDNA8TEGO5E,N,,
+EMP1051,Edward,Mendoza,Edward Mendoza,edwardmendoza@company.com,+1-978-479-9437,Engineering,Coordinator,2022-10-20,,Active,L4,Berlin,NIDFYWTXP65Z,N,,
+EMP1052,Andrea,Ward,Andrea Ward,ward.andrea@company.com,+1-561-149-1828,Support,Analyst,2021-07-30,2026-06-24,Terminated,L5,Berlin,NID7J2IRAZO4,N,,
+EMP1053,Tyler,Myers,Tyler Myers,myers.tyler@company.com,5895322075,Marketing,Specialist,2019-10-20,,Active,L4,Berlin,NIDQACTJPATD,N,,
+EMP1054,Adam,Chen,Adam Chen,chen.adam@company.com,+1-685-371-4728,Sales,Director,2019-06-14,,Active,L1,Austin,NIDB5OERXVQ2,N,,Performance review complete
+EMP1055,Roger,Turner,Roger Turner,roger23@company.com,(562) 792-5331,Operations,Coordinator,2022-04-16,,Active,L2,Austin,NIDBCXS94ODZ,N,,Visa sponsorship
+EMP1056,Lori,Nguyen,Lori Nguyen,lori33@company.com,(477) 675-5450,Engineering,Manager,2019-04-04,2020-08-19,Terminated,L4,Singapore,NIDP3R0JXEXV,N,,
+EMP1057,Logan,Phillips,Logan Phillips,logan.phillips@company.com,379-527-3880,Engineering,Analyst,2024-06-23,,Active,L3,Berlin,NIDLXCGNIW4I,N,,Visa sponsorship
+EMP1058,Stephanie,Lewis,Stephanie Lewis,slewis@company.com,(379) 725-7643,HR,Lead,2019-09-16,2025-05-06,Terminated,L3,London,NID0DG9BKK9C,N,,Performance review complete
+EMP1059,Jessica,Holmes,Jessica Holmes,jholmes@company.com,+44 3509 577079,Legal,Director,2017-04-29,,Active,L2,Berlin,NIDV2GP2K2JI,N,,Performance review complete
+EMP1060,Kevin,Wood,Kevin Wood,kevin66@company.com,777-159-8575,Engineering,Director,2021-11-01,2024-08-18,Terminated,L5,New York,NID1C2ZX2X1E,N,,Performance review complete
+EMP1061,Philip,Snyder,Philip Snyder,philip49@company.com,+1-586-484-2314,Engineering,Coordinator,2024-03-06,,Active,L4,Berlin,NIDFD8G56VR1,N,,
+EMP1062,Alice,Dunn,Alice Dunn,alice.dunn@company.com,(611) 549-4839,Marketing,Engineer,2016-03-05,2017-06-03,Terminated,L2,Singapore,NIDVZIE9KLQ6,Y,Litigation hold,
+EMP1063,Carl,Hayes,Carl Hayes,chayes@company.com,388-872-9813,HR,Lead,2016-07-11,,Active,L1,Berlin,NIDEEJD9B2GD,N,,Performance review complete
+EMP1064,Susan,Morgan,Susan Morgan,morgan.susan@company.com,(690) 313-6455,Marketing,Coordinator,2020-03-24,,Active,L4,Austin,NIDJC9IH3ZGU,N,,Performance review complete
+EMP1065,Jack,Watson,Jack Watson,watson.jack@company.com,435-488-5026,Legal,Lead,2020-08-22,TBD,Active,L4,London,NIDQC5J6WZYI,N,,
+EMP1066,Doris,Gonzalez,Doris Gonzalez,dorisgonzalez@company.com,9618334441,Support,Analyst,2024-07-27,2026-08-09,Terminated,L1,Berlin,NIDPJAIPFX6X,N,,Performance review complete
+EMP1067,Amy,Roberts,Amy Roberts,amy.roberts@company.com,+44 1519 198042,Legal,Analyst,2022-12-13,,Active,L1,London,NID2UNBZZWX8,N,,
+EMP1068,Brenda,Lopez,Brenda Lopez,brenda.lopez@company.com,(216) 312-3362,Sales,Engineer,2016-10-31,,Active,L1,New York,NIDFUCRYER19,N,,
+EMP1069,Megan,Collins,Megan Collins,megan75@company.com,284-374-3526,Sales,Manager,2019-12-28,,Active,L1,Singapore,NIDGR33FKI33,N,,

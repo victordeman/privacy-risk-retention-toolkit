@@ -1,0 +1,61 @@
+contact_id,first_name,last_name,email,phone,subscribed_date,unsubscribe_date,last_engagement_date,retention_trigger_date,trigger_type,status,source,consent_basis,on_hold,hold_reason,campaign_segment
+MKT5000,Ronald,Phillips,phillips.ronald@test.org,,2022-04-04,,2023-03-20,2023-03-20,last_engagement,Active,Referral,Soft opt-in,N,,Promotions
+MKT5001,Alice,Kim,alicekim@example.com,,2024-09-10,2025-01-25,2025-01-25,2025-01-25,unsubscribe,Unsubscribed,Event,Soft opt-in,N,,Product Updates
+MKT5002,Joan,Hunter,joanhunter@test.org,,2022-05-23,2024-07-13,2024-07-13,2024-07-13,unsubscribe,Unsubscribed,Website,Legitimate interest,N,,Newsletter
+MKT5003,Charles,Alvarez,calvarez@corp.io,(490) 278-4587,2020-05-02,,2020-09-25,2020-09-25,last_engagement,Active,Event,Explicit opt-in,N,,Product Updates
+MKT5004,Anna,Sanchez,annasanchez@example.com,,2020-03-26,,2020-08-14,2020-08-14,last_engagement,Active,Event,Legitimate interest,N,,Promotions
+MKT5005,Amber,Baker,amberbaker@company.com,,2024-11-11,,2025-01-17,2025-01-17,last_engagement,Active,Partner,Legitimate interest,N,,Events
+MKT5006,Bruce,Morales,brucemorales@company.com,1278627610,2020-07-08,,2021-01-18,2021-01-18,last_engagement,Active,Purchased List,Soft opt-in,N,,Promotions
+MKT5007,Andrea,Medina,andrea64@test.org,+44 7486 329212,2025-03-16,,,,unsubscribe,Active,Referral,Explicit opt-in,N,,Promotions
+MKT5008,Shirley,Harrison,shirley.harrison@company.com,,2020-12-13,2021-04-08,2021-04-08,2021-04-08,unsubscribe,Unsubscribed,Referral,Legitimate interest,N,,Events
+MKT5009,Lauren,Graham,laurengraham@company.com,+1-277-467-2350,2024-11-06,,2026-03-31,2026-03-31,last_engagement,Active,Partner,Explicit opt-in,N,,Product Updates
+MKT5010,Debra,Gomez,gomez.debra@business.org,,2023-09-10,2025-11-11,2025-11-11,2025-11-11,unsubscribe,Unsubscribed,Referral,Legitimate interest,N,,Newsletter
+MKT5011,Lori,Kim,lori2@test.org,,2023-02-28,,2024-04-17,2024-04-17,last_engagement,Active,Event,Legitimate interest,N,,Product Updates
+MKT5012,Ryan,Garza,ryan93@mail.net,,2022-05-09,,2023-10-20,2023-10-20,last_engagement,Active,Website,Legitimate interest,N,,Product Updates
+MKT5013,Virginia,Kelley,vkelley@corp.io,,2024-09-06,2026-01-09,,,unsubscribe,Unsubscribed,Website,Legitimate interest,N,,Promotions
+MKT5014,Gregory,Edwards,edwards.gregory@business.org,+44 2043 660453,2024-09-12,,2025-10-31,2025-10-31,last_engagement,Active,Website,Legitimate interest,N,,Events
+MKT5015,Sophia,Cox,sophia.cox@corp.io,875-636-2146,2021-01-16,2023-01-07,,invalid,unsubscribe,Unsubscribed,Purchased List,Legitimate interest,N,,Product Updates
+MKT5016,Mark,King,markking@company.com,,2024-09-09,,2024-11-19,2024-11-19,last_engagement,Active,Purchased List,Explicit opt-in,N,,Promotions
+MKT5017,Lawrence,Phillips,lawrence9@mail.net,,2025-08-20,,2026-11-05,2026-11-05,last_engagement,Active,Event,Soft opt-in,N,,Promotions
+MKT5018,Madison,Cole,mcole@mail.net,,2025-02-27,,2025-04-09,2025-04-09,last_engagement,Active,Event,Legitimate interest,N,,Product Updates
+MKT5019,Melissa,Porter,melissaporter@test.org,,2024-11-04,,2025-05-11,2025-05-11,last_engagement,Active,Event,Legitimate interest,N,,Promotions
+MKT5020,Willie,Moore,willie.moore@business.org,,2022-06-08,,2023-08-04,2023-08-04,last_engagement,Active,Partner,Legitimate interest,N,,Events
+MKT5021,Kevin,Cook,kevin60@test.org,,2022-04-29,,2023-08-16,2023-08-16,last_engagement,Active,Purchased List,Explicit opt-in,Y,,Events
+MKT5022,Elizabeth,Williams,elizabeth.williams@mail.net,2263341689,2022-10-23,2023-04-10,2023-04-10,2023-04-10,unsubscribe,Unsubscribed,Purchased List,Explicit opt-in,N,,Newsletter
+MKT5023,Doris,Grant,grant.doris@test.org,+1-913-148-9566,2020-02-15,,2020-07-22,2020-07-22,last_engagement,Active,Purchased List,Explicit opt-in,N,,Product Updates
+MKT5024,Maria,Morris,maria.morris@company.com,+44 6359 438354,2022-03-30,2023-07-04,2023-07-04,2023-07-04,unsubscribe,Unsubscribed,Website,Explicit opt-in,Y,Consent dispute,Product Updates
+MKT5025,Margaret,Alvarez,margaret.alvarez@mail.net,,2023-08-17,2024-10-31,,,unsubscribe,Unsubscribed,Partner,Soft opt-in,N,,Promotions
+MKT5026,Barbara,Moore,barbaramoore@corp.io,894-889-3177,2022-06-14,,2023-11-08,2023-11-08,last_engagement,Active,Website,Soft opt-in,N,,Events
+MKT5027,Heather,Ellis,heatherellis@example.com,,2022-08-10,,2022-08-24,2022-08-24,last_engagement,Active,Event,Soft opt-in,N,,Newsletter
+MKT5028,Jessica,Scott,scott.jessica@example.com,,2024-03-14,,2024-10-07,2024-10-07,last_engagement,Active,Purchased List,Soft opt-in,N,,Promotions
+MKT5029,Paul,Bailey,paul.bailey@test.org,9043210080,2023-07-24,,2023-09-03,2023-09-03,last_engagement,Active,Partner,Explicit opt-in,N,,Events
+MKT5030,Judy,Johnson,judy.johnson@company.com,(441) 619-2280,2020-09-21,,,,last_engagement,Active,Purchased List,Explicit opt-in,N,,Product Updates
+MKT5031,Helen,Kelly,helen47@example.com,,2025-01-10,,2025-08-05,2025-08-05,last_engagement,Active,Purchased List,Legitimate interest,N,,Events
+MKT5032,Cheryl,Olson,colson@example.com,,2024-11-10,,2026-03-19,2026-03-19,last_engagement,Active,Event,Soft opt-in,Y,Legal request,Product Updates
+MKT5033,Shirley,Ross,shirleyross@example.com,,2025-03-14,2026-01-28,2026-01-28,2026-01-28,unsubscribe,Unsubscribed,Event,Explicit opt-in,N,,Product Updates
+MKT5034,Mary,Brown,mbrown@mail.net,,2025-08-12,,2026-08-31,2026-08-31,last_engagement,Active,Partner,Soft opt-in,N,,Newsletter
+MKT5035,Jose,Martinez,jmartinez@business.org,,2021-05-24,2023-01-23,2023-01-23,2023-01-23,unsubscribe,Unsubscribed,Purchased List,Soft opt-in,N,,Promotions
+MKT5036,Elijah,Anderson,elijah.anderson@test.org,,2024-04-27,,unknown,unknown,last_engagement,Active,Event,Legitimate interest,N,,Events
+MKT5037,Juan,Nguyen,juan.nguyen@example.com,,2022-11-07,2024-07-21,2024-07-21,2024-07-21,unsubscribe,Unsubscribed,Purchased List,Legitimate interest,N,,Newsletter
+MKT5038,Roger,Carter,roger85@corp.io,,2024-09-28,2026-01-08,2026-01-08,2026-01-08,unsubscribe,Unsubscribed,Purchased List,Soft opt-in,N,,Newsletter
+MKT5039,Margaret,Silva,msilva@mail.net,+44 9600 537090,2023-11-11,,2024-08-13,2024-08-13,last_engagement,Active,Event,Explicit opt-in,N,,Promotions
+MKT5040,Deborah,Warren,deborahwarren@corp.io,+44 3721 183686,2021-07-04,2022-02-05,2022-02-05,2022-02-05,unsubscribe,Unsubscribed,Website,Legitimate interest,N,,Newsletter
+MKT5041,Rachel,Davis,davis.rachel@example.com,,2022-08-19,,2022-12-01,2022-12-01,last_engagement,Active,Website,Explicit opt-in,Y,Legal request,Product Updates
+MKT5042,Jacqueline,Johnson,jacqueline78@business.org,,2024-03-18,,2024-12-16,2024-12-16,last_engagement,Active,Partner,Legitimate interest,N,,Product Updates
+MKT5043,Patrick,Holmes,patrick1@example.com,,2024-06-20,2024-09-16,2024-09-16,2024-09-16,unsubscribe,Unsubscribed,Purchased List,Soft opt-in,N,,Product Updates
+MKT5044,Michael,Burns,michael48@company.com,,2021-05-18,,2022-03-01,2022-03-01,last_engagement,Active,Purchased List,Soft opt-in,N,,Events
+MKT5045,Amber,Carter,amber42@test.org,(556) 538-8800,2020-01-13,,2020-12-08,2020-12-08,last_engagement,Active,Referral,Soft opt-in,Y,Legal request,Newsletter
+MKT5046,Steven,Bryant,steven22@mail.net,,2020-12-22,2022-12-11,2022-12-11,2022-12-11,unsubscribe,Unsubscribed,Purchased List,Soft opt-in,N,,Product Updates
+MKT5047,Gary,Diaz,gdiaz@example.com,,2021-11-29,,2022-03-01,2022-03-01,last_engagement,Active,Partner,Explicit opt-in,N,,Promotions
+MKT5048,Willie,Griffin,williegriffin@test.org,,2021-05-19,,2022-11-18,2022-11-18,last_engagement,Active,Referral,Explicit opt-in,N,,Promotions
+MKT5049,Dennis,Rice,drice@company.com,962-218-7025,2024-04-12,,2025-11-09,2025-11-09,last_engagement,Active,Website,Soft opt-in,N,,Product Updates
+MKT5050,Diane,Henderson,diane14@company.com,+1-671-423-3370,2023-08-02,,2023-12-10,2023-12-10,last_engagement,Active,Referral,Legitimate interest,N,,Promotions
+MKT5051,Christian,Rose,crose@company.com,,2021-05-20,2023-06-12,2023-06-12,2023-06-12,unsubscribe,Unsubscribed,Purchased List,Explicit opt-in,N,,Promotions
+MKT5052,Michelle,Rice,michelle94@mail.net,+1-875-968-3608,2022-05-12,,,,last_engagement,Active,Referral,Soft opt-in,N,,Promotions
+MKT5053,Larry,Salazar,lsalazar@corp.io,,2022-03-10,,2023-09-23,2023-09-23,last_engagement,Active,Event,Soft opt-in,N,,Product Updates
+MKT5054,Kelly,Salazar,kelly.salazar@company.com,,2025-05-30,2025-11-24,2025-11-24,2025-11-24,unsubscribe,Unsubscribed,Referral,Explicit opt-in,N,,Product Updates
+MKT5055,Dennis,Barnes,barnes.dennis@example.com,,2021-11-20,,2022-02-27,2022-02-27,last_engagement,Active,Referral,Legitimate interest,N,,Product Updates
+MKT5056,Joe,Schmidt,joeschmidt@test.org,,2024-07-12,2024-12-10,2024-12-10,2024-12-10,unsubscribe,Unsubscribed,Purchased List,Soft opt-in,N,,Newsletter
+MKT5057,Kyle,Dixon,kyle16@example.com,,2024-04-14,2026-03-13,,,unsubscribe,Unsubscribed,Referral,Explicit opt-in,N,,Newsletter
+MKT5058,Lawrence,Wells,lawrence62@mail.net,+1-328-201-6328,2025-05-18,,,,unsubscribe,Active,Referral,Soft opt-in,N,,Newsletter
+MKT5059,Bobby,Ryan,ryan.bobby@company.com,,2022-04-29,,2022-08-28,2022-08-28,last_engagement,Active,Partner,Explicit opt-in,N,,Newsletter

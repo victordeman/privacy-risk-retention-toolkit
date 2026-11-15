@@ -1,0 +1,41 @@
+supplier_id,company_name,contact_first_name,contact_last_name,contact_email,contact_phone,contract_start_date,contract_end_date,status,category,payment_terms,tax_registration,on_hold,hold_reason,annual_spend_band
+SUP3000,Global Tech Pte Ltd,Emily,Ortiz,emilyortiz@mail.net,+1-951-179-6319,2019-08-13,2022-01-18,Ended,IT Services,Net 45,VATCTEVV8NL0R,N,,>1m
+SUP3001,Nexus Solutions AG,Susan,Ward,susan94@test.org,+44 3425 238610,2023-01-21,,Active,Facilities,Net 60,VAT1E3IR44KHN,Y,Audit in progress,50-200k
+SUP3002,Nexus Systems Pte Ltd,Sara,Simpson,sara.simpson@corp.io,9536899982,2017-10-21,2020-04-18,Ended,Professional Services,Net 60,VAT51T7DRU41Y,N,,50-200k
+SUP3003,Global Consulting Inc,Emma,Brown,emmabrown@test.org,(968) 364-9991,2020-06-03,2023-12-11,Ended,IT Services,Net 45,VAT7P9GY2NNWC,N,,<50k
+SUP3004,Elite Systems SAS,Robert,Howard,robert.howard@corp.io,(668) 674-1352,2022-09-14,2024-04-04,Ended,IT Services,Net 45,VATOCAZZ929DZ,N,,<50k
+SUP3005,Horizon Systems AG,Carl,Bailey,carlbailey@test.org,(636) 419-6395,2021-05-29,2026-02-02,Ended,Logistics,Net 60,VATPI4ZZ5XXBK,Y,,<50k
+SUP3006,Summit Consulting Ltd,Deborah,Brooks,dbrooks@test.org,+1-355-897-4079,2020-07-29,2023-11-23,Ended,Logistics,Net 30,VATOHILPDUH46,N,,<50k
+SUP3007,Apex Logistics SAS,Jose,Grant,jose23@example.com,6638851791,2019-07-01,2024-04-04,Ended,Facilities,Net 60,VATJNP13GVV8J,N,,<50k
+SUP3008,Nexus Services Ltd,Carl,Jimenez,carljimenez@business.org,(906) 629-3330,2019-02-17,2021-10-05,Ended,Facilities,Net 60,VATJEB0GWWV3B,N,,50-200k
+SUP3009,Nova Solutions Inc,Diana,Ferguson,ferguson.diana@mail.net,(763) 489-1719,2022-01-15,2026-08-05,Ended,IT Services,Net 45,VATBQYA6WY0R0,N,,>1m
+SUP3010,Apex Tech BV,Andrea,Owens,andrea.owens@mail.net,834-743-4401,2019-09-02,2021-11-19,Ended,IT Services,Net 30,VATUOUAX1F6OL,N,,50-200k
+SUP3011,Pinnacle Logistics Ltd,Peter,Weaver,peter98@example.com,1249900899,2018-01-17,2020-09-20,Ended,Facilities,Net 30,VATHOXZALBIZC,N,,50-200k
+SUP3012,Vanguard Tech BV,Alice,Washington,alice.washington@business.org,955-968-4396,2022-07-11,2024-07-13,Ended,Facilities,Net 60,VAT7NO92AJR4B,N,,>1m
+SUP3013,Pinnacle Solutions GmbH,Natalie,Kennedy,natalie.kennedy@mail.net,7532959755,2019-03-06,2022-01-10,Ended,Logistics,Net 60,VATJ7OSVCYA1Z,N,,50-200k
+SUP3014,Elite Systems Inc,Dylan,Crawford,dylancrawford@example.com,5692698971,2020-06-16,2023-03-22,Ended,IT Services,Net 45,VATW5CHVBBR3Z,N,,50-200k
+SUP3015,Apex Materials SAS,Edward,Garza,egarza@corp.io,223-691-6114,2022-11-10,2024-07-04,Ended,Logistics,Net 60,VATBF4590MI7C,Y,Contract dispute,200k-1m
+SUP3016,Prime Tech Pte Ltd,Brenda,Torres,brenda.torres@corp.io,8298719245,2018-12-03,2020-04-26,Ended,Logistics,Net 45,VATB7RT2XRK3S,N,,>1m
+SUP3017,Prime Consulting BV,Matthew,Patterson,mpatterson@corp.io,(532) 564-8987,2022-04-12,2024-07-29,Ended,Logistics,Net 45,VATL43TSBNSJE,N,,>1m
+SUP3018,Horizon Tech GmbH,Amy,Porter,amy56@corp.io,7283143895,2022-05-30,2025-07-24,Ended,IT Services,Net 45,VAT6Y23TRDHN3,Y,Audit in progress,50-200k
+SUP3019,Apex Services GmbH,Arthur,Gardner,arthur74@corp.io,9624806504,2024-05-30,2026-03-31,Ended,Professional Services,Net 30,VATU2WY0KZ3A1,N,,>1m
+SUP3020,Elite Consulting AG,Isabella,Webb,isabella23@test.org,+1-342-292-7301,2021-04-17,2024-07-26,Ended,Raw Materials,Net 60,VATVNZ44TUWPX,N,,50-200k
+SUP3021,Elite Tech BV,Peter,Ellis,peter74@example.com,2583033048,2021-04-25,2024-04-21,Ended,Professional Services,Net 60,VAT2QIURAIIL8,N,,<50k
+SUP3022,Nexus Services LLC,Danielle,Silva,danielle61@example.com,+44 5981 862285,2023-11-17,2025-03-04,Ended,Facilities,Net 30,VATKNAQ0H42S9,N,,200k-1m
+SUP3023,Apex Consulting Inc,Stephen,Rogers,srogers@test.org,+44 3376 724473,2023-10-10,2025-10-01,Ended,Raw Materials,Net 60,VATFM7QCNR46E,N,,200k-1m
+SUP3024,Nexus Systems SAS,Evelyn,Weaver,eweaver@mail.net,299-644-6797,2024-08-31,,Active,Logistics,Net 45,VATS9LGO8ORIO,N,,50-200k
+SUP3025,Apex Consulting Ltd,Benjamin,Harrison,bharrison@test.org,4588269668,2017-10-06,2018-10-30,Ended,IT Services,Net 60,VATY3LDRNS636,N,,200k-1m
+SUP3026,Nova Consulting BV,Joan,Hicks,joanhicks@business.org,+44 5230 952283,2020-02-07,2023-06-30,Ended,IT Services,Net 45,VATZ7EN3JFM3F,N,,200k-1m
+SUP3027,Nova Solutions LLC,Anthony,Rodriguez,anthony.rodriguez@test.org,+44 9444 841978,2022-01-01,2023-02-08,Ended,Professional Services,Net 60,VATSSJ0YTHKXC,N,,200k-1m
+SUP3028,Nova Logistics AG,Aaron,Anderson,anderson.aaron@company.com,+1-240-493-4129,2017-11-26,2021-06-24,Ended,Raw Materials,Net 30,VATPLH2JBJUGZ,N,,<50k
+SUP3029,Global Services Ltd,Gregory,Anderson,anderson.gregory@corp.io,(273) 137-3319,2021-07-19,2023-03-18,Ended,IT Services,Net 30,VATMWT3MU2T4L,N,,50-200k
+SUP3030,Elite Logistics SAS,Thomas,Phillips,thomasphillips@company.com,(543) 164-2978,2020-08-21,2022-04-25,Ended,Facilities,Net 30,VAT4SMD5V20XP,N,,200k-1m
+SUP3031,Vanguard Consulting GmbH,Adam,Stone,adamstone@mail.net,(810) 284-9190,2019-04-25,2021-02-11,Ended,Raw Materials,Net 30,VATZZMVZIGM71,N,,<50k
+SUP3032,Vanguard Materials GmbH,Joshua,Boyd,joshua27@business.org,+1-457-442-8424,2018-10-17,TBC,Active,Raw Materials,Net 60,VATGKFQW8388E,N,,50-200k
+SUP3033,Nova Materials BV,Dennis,Cruz,dennis18@business.org,+44 5597 243132,2017-08-11,2021-01-19,Ended,Raw Materials,Net 45,VAT7A5SYWKJ8E,Y,,>1m
+SUP3034,Vanguard Services BV,Laura,Webb,lwebb@company.com,5439366473,2020-02-18,2021-03-18,Ended,Professional Services,Net 45,VATTP3H2ROE7C,N,,50-200k
+SUP3035,Apex Materials LLC,Grace,White,grace59@example.com,+44 2158 503575,2018-10-25,2022-05-22,Ended,Logistics,Net 60,VATYJSS2VQ1YO,N,,<50k
+SUP3036,Global Materials Ltd,Mark,Foster,markfoster@example.com,955-870-4437,2021-02-06,2024-02-26,Ended,IT Services,Net 30,VATDGITGJTWGD,N,,<50k
+SUP3037,Nova Solutions SAS,Timothy,Alexander,timothy.alexander@company.com,733-742-1371,2019-01-03,2021-08-15,Ended,Professional Services,Net 45,VATQ060SUICKN,N,,200k-1m
+SUP3038,Nexus Services BV,Jeremy,Webb,jwebb@business.org,(495) 888-1775,2022-02-19,2024-11-02,Ended,Raw Materials,Net 60,VATON581B496K,N,,<50k
+SUP3039,Global Systems AG,Willie,Brooks,willie4@example.com,204-856-9948,2022-01-11,2026-01-20,Ended,Facilities,Net 60,VAT5KWFOQW5JB,N,,>1m

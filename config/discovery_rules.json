@@ -1,0 +1,54 @@
+{
+  "version": "1.0",
+  "description": "Pattern rules indicate POSSIBLE personal information only. Every finding needs analyst confirmation.",
+  "min_match_rate": 0.5,
+  "placeholder_values": ["", "N/A", "n/a", "unknown", "TBD", "TBC", "invalid", "invalid-date", "NULL", "pending", "malformed", "ongoing", "open", "0000-00-00"],
+  "scan_exclude": [],
+  "confidence_logic": "low = column name hits a negative hint OR match rate below min; high = column-name hint AND rate >= min; medium = rate >= min without a hint, or a hint with a lower rate.",
+  "categories": {
+    "email": {
+      "sensitivity": "Medium",
+      "column_hints": "e_?mail",
+      "negative_column_hints": null,
+      "patterns": [{"name": "email_address", "regex": "^[A-Za-z0-9._%+-]+@[A-Za-z0-9-]+(?:\\.[A-Za-z0-9-]+)*\\.[A-Za-z]{2,}$", "requires_column_hint": false}]
+    },
+    "phone": {
+      "sensitivity": "Medium",
+      "column_hints": "phone|mobile|tel(ephone)?$",
+      "negative_column_hints": null,
+      "patterns": [
+        {"name": "na_formatted", "regex": "^(?:\\+\\d{1,3}[ -]?)?(?:\\(\\d{3}\\)\\s?|\\d{3}[-. ])\\d{3}[-. ]\\d{4}$", "requires_column_hint": false},
+        {"name": "intl_spaced", "regex": "^\\+\\d{1,3}[ -]\\d{3,5}[ -]\\d{5,7}$", "requires_column_hint": false},
+        {"name": "digits_10_plus", "regex": "^\\+?\\d{10,15}$", "requires_column_hint": false}
+      ]
+    },
+    "name": {
+      "sensitivity": "Medium",
+      "column_hints": "(first|last|full|customer|contact)(_[a-z]+)*_?name|_name$",
+      "negative_column_hints": "company|org|business|department|job|title|location|campaign",
+      "patterns": [
+        {"name": "two_plus_capitalised_words", "regex": "^[A-Z][A-Za-z'’-]+(?: [A-Z][A-Za-z'’-]+)+$", "requires_column_hint": false},
+        {"name": "single_capitalised_word_in_name_column", "regex": "^[A-Z][A-Za-z'’-]+$", "requires_column_hint": true}
+      ]
+    },
+    "identification_number": {
+      "sensitivity": "High",
+      "column_hints": "national_id|tax_id|tax_registration|employee_id|customer_id|supplier_id|^user_id$",
+      "negative_column_hints": "session|log_id|ticket|agent",
+      "patterns": [
+        {"name": "employee_id", "regex": "^EMP\\d{4,}$", "requires_column_hint": false},
+        {"name": "customer_id", "regex": "^CUST\\d{4,}$", "requires_column_hint": false},
+        {"name": "supplier_id", "regex": "^SUP\\d{4,}$", "requires_column_hint": false},
+        {"name": "national_id", "regex": "^NID[A-Z0-9]{8,}$", "requires_column_hint": false},
+        {"name": "tax_id", "regex": "^TX[A-Z0-9]{8,}$", "requires_column_hint": false},
+        {"name": "vat_registration", "regex": "^VAT[A-Z0-9]{8,}$", "requires_column_hint": false}
+      ]
+    },
+    "ip_address": {
+      "sensitivity": "Medium",
+      "column_hints": "(^|_)ip(_|$)",
+      "negative_column_hints": null,
+      "patterns": [{"name": "ipv4", "regex": "^(?:(?:25[0-5]|2[0-4]\\d|1?\\d?\\d)\\.){3}(?:25[0-5]|2[0-4]\\d|1?\\d?\\d)$", "requires_column_hint": false}]
+    }
+  }
+}

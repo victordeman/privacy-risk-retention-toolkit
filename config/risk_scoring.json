@@ -1,0 +1,13 @@
+{
+  "method": "Likelihood (1-5) x Severity (1-5) = Inherent Risk. Residual risk is recalculated with the residual likelihood and severity after controls.",
+  "bands": [
+    {"name": "Low", "min": 1, "max": 4},
+    {"name": "Medium", "min": 5, "max": 9},
+    {"name": "High", "min": 10, "max": 15},
+    {"name": "Critical", "min": 16, "max": 25}
+  ],
+  "likelihood_scale": {"1": "Rare", "2": "Unlikely", "3": "Possible", "4": "Likely", "5": "Almost certain"},
+  "severity_scale": {"1": "Negligible", "2": "Minor", "3": "Moderate", "4": "Major", "5": "Severe"},
+  "min_assessments": 5,
+  "due_soon_days": 60
+}

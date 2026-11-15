@@ -1,0 +1,29 @@
+{
+  "as_of_date": "2026-11-14",
+  "note": "All retention periods are TEST POLICIES for demonstration only - not legal requirements.",
+  "rules": [
+    {"rule_id": "RR-001", "dataset": "employees.csv", "trigger_column": "termination_date", "retention_years": 7,
+     "description": "Employee records retained 7 years after termination",
+     "id_column": "employee_id", "status_column": "status", "closed_statuses": ["Terminated"]},
+    {"rule_id": "RR-002", "dataset": "customers.csv", "trigger_column": "account_closed_date", "retention_years": 5,
+     "description": "Customer records retained 5 years after account closure",
+     "id_column": "customer_id", "status_column": "status", "closed_statuses": ["Closed"]},
+    {"rule_id": "RR-003", "dataset": "suppliers.csv", "trigger_column": "contract_end_date", "retention_years": 7,
+     "description": "Supplier records retained 7 years after contract end",
+     "id_column": "supplier_id", "status_column": "status", "closed_statuses": ["Ended"]},
+    {"rule_id": "RR-004", "dataset": "support_tickets.csv", "trigger_column": "closed_date", "retention_years": 3,
+     "description": "Support tickets retained 3 years after closure",
+     "id_column": "ticket_id", "status_column": "status", "closed_statuses": ["Closed"]},
+    {"rule_id": "RR-005", "dataset": "marketing_contacts.csv", "trigger_column": "retention_trigger_date", "retention_years": 2,
+     "description": "Marketing contacts retained 2 years after unsubscribe or last engagement",
+     "id_column": "contact_id"},
+    {"rule_id": "RR-006", "dataset": "access_logs.csv", "trigger_column": "access_timestamp", "retention_years": 1,
+     "description": "Access logs retained 1 year after the access event",
+     "id_column": "log_id"}
+  ],
+  "hold_column": "on_hold",
+  "hold_value": "Y",
+  "hold_reason_column": "hold_reason",
+  "invalid_date_values": ["", "invalid", "N/A", "unknown", "TBD", "pending", "NULL", "0000-00-00", "malformed", "ongoing", "TBC", "open", "invalid-date"],
+  "_toolkit_extensions": "rule_id, id_column, status_column and closed_statuses were added to the supplied config. They let the engine tell an active record with no trigger yet (not eligible) from a closed record whose trigger is missing (investigate). Datasets without status_column always expect a trigger. Leap-day triggers (29 Feb) roll to 28 Feb when the due year is not a leap year."
+}

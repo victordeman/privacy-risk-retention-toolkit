@@ -1,0 +1,9 @@
+[project]
+name = "privacy-toolkit"
+version = "1.0.0"
+description = "Privacy Risk Assessment and Data Retention Automation Toolkit (synthetic data only)"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
