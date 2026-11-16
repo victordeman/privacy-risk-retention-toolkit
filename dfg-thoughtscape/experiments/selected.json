@@ -1,0 +1,156 @@
+[
+ {
+  "course": "distributed-systems",
+  "slug": "vector-clocks",
+  "i": 3,
+  "kind": "operator",
+  "content": "attach current vector clock metadata to network payload"
+ },
+ {
+  "course": "distributed-systems",
+  "slug": "simple-rpc",
+  "i": 3,
+  "kind": "operator",
+  "content": "parse payload and call target function with arguments"
+ },
+ {
+  "course": "distributed-systems",
+  "slug": "replicated-kv",
+  "i": 0,
+  "kind": "goal",
+  "content": "maintain state consistency across multiple node replicas"
+ },
+ {
+  "course": "distributed-systems",
+  "slug": "sockets-threads",
+  "i": 0,
+  "kind": "goal",
+  "content": "Identify socket abstraction for TCP connection endpoint"
+ },
+ {
+  "course": "robotics-perception",
+  "slug": "week-10-kalman-filter",
+  "i": 4,
+  "kind": "operator",
+  "content": "d\u00b2 = y\u1d40 S\u207b\u00b9 y; reject above the chi\u00b2 threshold before applying the update"
+ },
+ {
+  "course": "robotics-perception",
+  "slug": "week-11-particle-filter",
+  "i": 4,
+  "kind": "operator",
+  "content": "replace lowest-weight particles with uniform draws to escape false modes"
+ },
+ {
+  "course": "robotics-perception",
+  "slug": "week-13-ros2-integration",
+  "i": 0,
+  "kind": "goal",
+  "content": "nodes exchange typed messages on named topics; list/echo/hz inspect the graph"
+ },
+ {
+  "course": "robotics-perception",
+  "slug": "week-2-pinhole-camera",
+  "i": 3,
+  "kind": "operator",
+  "content": "u = fx*u_d + cx, v = fy*v_d + cy after distortion; K = [[fx,0,cx],[0,fy,cy],[0,0,1]]"
+ },
+ {
+  "course": "maths-of-cryptography",
+  "slug": "modular-arithmetic-congruences",
+  "i": 5,
+  "kind": "operator",
+  "content": "x0 + k*(m/g) for k = 0..g-1, with x0 = b_ * a_^(-1) mod m_"
+ },
+ {
+  "course": "maths-of-cryptography",
+  "slug": "divisibility-euclidean-algorithm",
+  "i": 0,
+  "kind": "goal",
+  "content": "gcd(a, b) = gcd(b, a mod b); iterate until the remainder is 0"
+ },
+ {
+  "course": "introduction-to-ai",
+  "slug": "week-2-search-and-planning",
+  "i": 5,
+  "kind": "goal",
+  "content": "informed h expands fewer nodes than h=0 at the same optimal cost"
+ },
+ {
+  "course": "introduction-to-ai",
+  "slug": "week-7-transformers-and-embeddings",
+  "i": 3,
+  "kind": "operator",
+  "content": "Q/K/V projections; scores scaled by sqrt(d_k); causal mask on scores before softmax"
+ },
+ {
+  "course": "introduction-to-ai",
+  "slug": "week-4-decision-making-under-uncertainty",
+  "i": 3,
+  "kind": "operator",
+  "content": "sum the weights per query value and divide by the total so posteriors sum to 1"
+ },
+ {
+  "course": "introduction-to-ai",
+  "slug": "week-5-ml-foundations",
+  "i": 2,
+  "kind": "operator",
+  "content": "per-class shuffle; 60% train, 20% validation, test takes the remainder"
+ },
+ {
+  "course": "database-management-systems",
+  "slug": "lab-08-midterm-sprint",
+  "i": 4,
+  "kind": "goal",
+  "content": "orphan items = order_id outside the orders set"
+ },
+ {
+  "course": "database-management-systems",
+  "slug": "lab-12-pgvector-search",
+  "i": 5,
+  "kind": "operator",
+  "content": "recall = |approx \u2229 exact| / k; here 2/3 = 0.6667"
+ },
+ {
+  "course": "database-management-systems",
+  "slug": "lab-03-basic-sql",
+  "i": 3,
+  "kind": "operator",
+  "content": "WHERE filters rows before grouping; HAVING filters groups by their aggregate"
+ },
+ {
+  "course": "database-management-systems",
+  "slug": "lab-07-stored-procedures",
+  "i": 2,
+  "kind": "goal",
+  "content": "apply_updates routes every row through the trigger function in order"
+ },
+ {
+  "course": "introduction-to-ml",
+  "slug": "lab-11-generative-models",
+  "i": 3,
+  "kind": "goal",
+  "content": "z = mu + exp(0.5*logvar)*eps with seeded eps"
+ },
+ {
+  "course": "introduction-to-ml",
+  "slug": "lab-09-unsupervised-clustering",
+  "i": 5,
+  "kind": "operator",
+  "content": "border joins first cluster; noise labeled -1"
+ },
+ {
+  "course": "introduction-to-ml",
+  "slug": "lab-03-tree-methods",
+  "i": 5,
+  "kind": "goal",
+  "content": "n_trees trees on n with-replacement samples, seeded rng"
+ },
+ {
+  "course": "introduction-to-ml",
+  "slug": "lab-01-foundations",
+  "i": 4,
+  "kind": "goal",
+  "content": "population covariance over sqrt(var_x * var_y); zero variance -> 0"
+ }
+]

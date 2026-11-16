@@ -1,0 +1,14 @@
+n 22
+light closer than near: 11 ties 2 near closer 9
+heavy closer than near: 0
+mean d_light 0.086  median 0.074
+mean d_heavy 0.643  median 0.623
+mean d_near 0.087  median 0.064
+d_light > 0.6: 0/22 CI (0.0, 0.15)
+d_heavy > 0.6: 13/22 CI (0.39, 0.77)
+d_near > 0.6: 0/22 CI (0.0, 0.15)
+d_light > 0.7: 0/22 CI (0.0, 0.15)
+d_heavy > 0.7: 9/22 CI (0.23, 0.61)
+d_near > 0.7: 0/22 CI (0.0, 0.15)
+heavy gold ranked first: 6/22 CI (0.13, 0.48) ; chance 0.17 (=3.6 items)
+mean rank heavy 3.32 of mean 6.09 candidates
